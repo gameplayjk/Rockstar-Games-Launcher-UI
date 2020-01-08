@@ -1,0 +1,15 @@
+C:\Users\techp\source\repos\Rockstar Games Launcher UI\bin\Debug\Rockstar Games Launcher UI.exe.config
+C:\Users\techp\source\repos\Rockstar Games Launcher UI\bin\Debug\Rockstar Games Launcher UI.exe
+C:\Users\techp\source\repos\Rockstar Games Launcher UI\bin\Debug\Rockstar Games Launcher UI.pdb
+C:\Users\techp\source\repos\Rockstar Games Launcher UI\bin\Debug\Rockstar Games Launcher UI.xml
+C:\Users\techp\source\repos\Rockstar Games Launcher UI\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\techp\source\repos\Rockstar Games Launcher UI\obj\Debug\Rockstar Games Launcher UI.vbprojAssemblyReference.cache
+C:\Users\techp\source\repos\Rockstar Games Launcher UI\obj\Debug\Rockstar_Games_Launcher_UI.Form1.resources
+C:\Users\techp\source\repos\Rockstar Games Launcher UI\obj\Debug\Rockstar_Games_Launcher_UI.Resources.resources
+C:\Users\techp\source\repos\Rockstar Games Launcher UI\obj\Debug\Rockstar Games Launcher UI.vbproj.GenerateResource.cache
+C:\Users\techp\source\repos\Rockstar Games Launcher UI\obj\Debug\Rockstar Games Launcher UI.vbproj.CopyComplete
+C:\Users\techp\source\repos\Rockstar Games Launcher UI\obj\Debug\Rockstar Games Launcher UI.exe
+C:\Users\techp\source\repos\Rockstar Games Launcher UI\obj\Debug\Rockstar Games Launcher UI.xml
+C:\Users\techp\source\repos\Rockstar Games Launcher UI\obj\Debug\Rockstar Games Launcher UI.pdb
+C:\Users\techp\source\repos\Rockstar Games Launcher UI\bin\Debug\theme.dll
+C:\Users\techp\source\repos\Rockstar Games Launcher UI\obj\Debug\Rockstar_Games_Launcher_UI.frm_Login.resources
